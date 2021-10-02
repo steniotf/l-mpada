@@ -1,0 +1,18 @@
+header, main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button{
+  width: 100px;
+  border-radius: 10px;
+  background-color: darkviolet;  
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 0 ;
+  margin-right:10px;
+}
+h1{
+  font-family: sans-serif;
+  color: darkviolet;
+}
